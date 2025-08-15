@@ -4,7 +4,7 @@ icon: question
 
 # Что это такое?
 
-Это публичная коллекция чарт паттернов _Project Sekai: Colorful Stage!_ charting patterns.
+Это публичная коллекция чарт паттернов _Project Sekai: Colorful Stage!_.
 
 Если вы ищете **введения в чартинг**, посмотрите этот гайд:\
 👉 [Getting Started with PJ Sekai Charting](https://sekai-guide.tootiejin.com/getting-started/start-here)
