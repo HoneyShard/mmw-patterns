@@ -1,22 +1,22 @@
-# Table of contents
+# Оглавление
 
 * [mmw-patterns](README.md)
 
-## Info
+## Информация
 
-* [What is this?](info/what-is-this.md)
-* [How can I contribute?](info/how-can-i-contribute.md)
+* [Что это такое??](info/what-is-this.md)
+* [Как я могу внести свой вклад?](info/how-can-i-contribute.md)
 
-## 🍀 Basic
+## 🍀 Базовые
 
-* [Hold](basic/hold.md)
-* [Tap](basic/tap.md)
-* [Flick](basic/flick.md)
-* [Mixed](basic/mixed.md)
+* [Холд](basic/hold.md)
+* [Тап](basic/tap.md)
+* [Флик](basic/flick.md)
+* [Смешанные](basic/mixed.md)
 
-## 🌟 Gimmicks
+## 🌟 Гиммик
 
-* [Hold](gimmicks/hold.md)
-* [Tap](gimmicks/tap.md)
-* [Flick](gimmicks/flick.md)
-* [Mixed](gimmicks/mixed.md)
+* [Холд](gimmicks/hold.md)
+* [Тап](gimmicks/tap.md)
+* [Флик](gimmicks/flick.md)
+* [Смешанные](gimmicks/mixed.md)
