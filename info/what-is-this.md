@@ -11,7 +11,11 @@ icon: question
 
 
 
+
 ### Посмотреть паттерны
+=======
+
+
 
 * [Гиммик паттерны](broken-reference)
 * [Обычные паттерны](broken-reference)
