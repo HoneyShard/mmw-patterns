@@ -1,10 +1,10 @@
-# Hold
+# Холд
 
 <details>
 
-<summary>Left/Right Cut</summary>
+<summary>Срез влево/направо</summary>
 
-As seen in shojo rei's master
+Показано в мастере Shoujo Rei
 
 <figure><img src="../.gitbook/assets/Untitled Project.gif" alt=""><figcaption></figcaption></figure>
 
