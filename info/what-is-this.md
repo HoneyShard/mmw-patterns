@@ -11,7 +11,7 @@ icon: question
 
 
 
-### Browse Patterns
+### Посмотреть паттерны
 
 * [Гиммик паттерны](broken-reference)
 * [Обычные паттерны](broken-reference)
