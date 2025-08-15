@@ -12,6 +12,8 @@ As seen in: Marble Blue Master
 
 Trace background is used to make the hold golden.
 
+added by @.caling
+
 <figure><img src="../.gitbook/assets/holdgoldtrace (1).gif" alt=""><figcaption></figcaption></figure>
 
 </details>
