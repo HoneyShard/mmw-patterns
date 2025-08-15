@@ -14,8 +14,8 @@ It's okay if your additions are a little messy.
 
 ### Browse Patterns
 
-* [Gimmicky Patterns](broken-reference)
-* [Calmer Patterns](broken-reference)
+* [Gimmicky Patterns](https://mmwpatterns.gitbook.io/mmwpatterns/gimmicks/)
+* [Calmer Patterns](https://mmwpatterns.gitbook.io/mmwpatterns/basic/)
 * Mixed or unusual patterns can be added as needed.
 
 The naming schemes aren't very strict, but they should give you a tiny bit of a nudge in the right direction if you're looking for something specific.
