@@ -21,5 +21,5 @@ The naming schemes aren't very strict, but they should give you a tiny bit of a 
 
 
 
-Join the community! 
+Join the community! <br>
 <a href = "https://discord.gg/UZnRfkeEXQ"><img src = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/67d00cf7266d2c75571aebde_Example.svg" alt = "discord"></a>
