@@ -24,6 +24,8 @@ Click here to open the repo: [**View Repository**](https://github.com/USERNAME/R
 2. Click the **✏️ “Edit this file”** button (top right of the file).
 3. Make your edits directly in GitHub’s editor.
 
+* _I reccomend using expandable blocks_
+
 ***
 
 #### **3. Submit Your Changes**
