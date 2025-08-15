@@ -20,3 +20,10 @@
 * [Tap](gimmicks/tap.md)
 * [Flick](gimmicks/flick.md)
 * [Mixed](gimmicks/mixed.md)
+
+## 🌁 Traces
+
+* [Info](traces/info.md)
+* [Decoration](traces/decoration.md)
+* [As Substitute](traces/as-substitute.md)
+* [Other uses](traces/other-uses.md)
