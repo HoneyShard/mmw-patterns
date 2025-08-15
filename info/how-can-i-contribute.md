@@ -21,7 +21,7 @@ Click here to open the repo: [**View Repository**](https://github.com/HoneyShard
 
 #### **2. Make Edits**
 
-1. Make a fork of main.
+1. Make a fork of the branch/language you want to edit.
 2. Navigate to the file or page you want to change.
 3. Click the **✏️ “Edit this file”** button (top right of the file).
 4. Make your edits directly in GitHub’s editor.
