@@ -10,7 +10,7 @@ If you’re looking for an **introduction to charting**, check out this guide in
 👉 [Getting Started with PJ Sekai Charting](https://sekai-guide.tootiejin.com/getting-started/start-here)
 
 
-
+русскийрусскийрусскийрусскийрусский
 ### Browse Patterns
 
 * [Gimmicky Patterns](broken-reference)
