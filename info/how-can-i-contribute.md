@@ -13,7 +13,7 @@ You don’t need special permissions to suggest edits; Although, as gitbook does
 
 
 
-Click here to open the repo: [**View Repository**](https://github.com/USERNAME/REPO)\
+Click here to open the repo: [**View Repository**](https://github.com/HoneyShard/mmw-patterns)\
 
 
 ***
