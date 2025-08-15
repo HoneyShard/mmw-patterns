@@ -18,7 +18,7 @@ Can be a zigzag, curved, etc.
 
 <summary>3+ Hold (append) </summary>
 
-<figure><img src="../.gitbook/assets/holdsinseries.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/holdsinseries (1).gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 

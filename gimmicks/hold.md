@@ -19,3 +19,15 @@ As seen in shojo rei's master
 added by  @soraliee.\_ / minn
 
 </details>
+
+<details>
+
+<summary>Hold Stack</summary>
+
+Video by @znox\_x\
+
+
+<figure><img src="../.gitbook/assets/hold stack.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
+
