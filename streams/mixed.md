@@ -14,8 +14,6 @@ A stream is a series of related tiles. e.g. (Intense Voice Expert). They're usua
 
 <figure><img src="../.gitbook/assets/spamintermittentflicks.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/tapflickladder.gif" alt=""><figcaption></figcaption></figure>
-
 </details>
 
 
