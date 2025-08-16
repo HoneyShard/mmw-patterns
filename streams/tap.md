@@ -2,7 +2,7 @@
 description: hmm.. maybe there should be tabs for ladders instead..
 ---
 
-# Tap
+# Ladders
 
 
 
@@ -59,6 +59,8 @@ Intense Voice Expert.
 <figure><img src="../.gitbook/assets/wideladder.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+## Bursts
 
 <details>
 
