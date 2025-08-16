@@ -4,18 +4,17 @@
 
 ### This project is open for contributions!
 
+You don’t need special permissions to suggest edits; Although, as gitbook doesen't support public editing, everything is handled through GitHub pull requests.
 
-You don’t need special permissions to suggest edits; Although, as gitbook doesen't support public editing,  everything is handled through GitHub pull requests.
+***
+
+## \* If you find it too hard, you can always send submissions into the #patterns channel in the discord.
 
 ***
 
 #### **1. Open the GitHub Repository**
 
-
-
 Click here to open the repo: [**View Repository**](https://github.com/HoneyShard/mmw-patterns)
-
-
 
 ***
 
@@ -41,12 +40,10 @@ Click here to open the repo: [**View Repository**](https://github.com/HoneyShard
 
 #### **4. Review & Merge**
 
-Your changes will be reviewed by the maintainers.
-If approved, they’ll be merged into the main content and appear on the GitBook.
+Your changes will be reviewed by the maintainers. If approved, they’ll be merged into the main content and appear on the GitBook.
 
 ***
 
-💡 **Tip:**
-If you’re new to GitHub, you can follow this quick guide: [GitHub Hello World Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+💡 **Tip:** If you’re new to GitHub, you can follow this quick guide: [GitHub Hello World Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
-**Sbooga.**
+##
