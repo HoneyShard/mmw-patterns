@@ -10,7 +10,7 @@ e.g:
 
 As seen in: Marble Blue Master
 
-Trace background is used to make the hold golden.
+Trace guide is used to make the hold golden.
 
 added by @.caling
 
@@ -25,6 +25,8 @@ added by @.caling
 While not actually considered a flick, it can be hit in the same way.
 
 <figure><img src="../.gitbook/assets/traceflick.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 </details>
 

@@ -6,7 +6,7 @@ description: A lot of the stuff in here is super complicated, so naming is whate
 
 <details>
 
-<summary>Trace Background MISC1</summary>
+<summary>Trace guide MISC1</summary>
 
 <figure><img src="../.gitbook/assets/tracebgmisc1.gif" alt=""><figcaption></figcaption></figure>
 
