@@ -14,11 +14,10 @@
 * [Flick](basic/flick.md)
 * [Mixed](basic/mixed.md)
 
-***
+## 🌊 Streams
 
-* [🌊 Streams](streams/README.md)
-  * [Streams](streams/mixed.md)
-  * [Ladders](basic/tap.md)
+* [Streams](streams/mixed.md)
+* [Ladders](basic/tap.md)
 
 ## 🌟 Gimmicks
 
