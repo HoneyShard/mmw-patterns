@@ -2,6 +2,26 @@
 
 <details>
 
+<summary>⭐Dissapearing Hold</summary>
+
+Added by @.caling
+
+<figure><img src="../.gitbook/assets/Dissapearinghold.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Overlapping Holds</summary>
+
+<figure><img src="../.gitbook/assets/overlappingholds.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
 <summary>Left/Right Cut</summary>
 
 As seen in shojo rei's master
