@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>⭐Dissapearing Hold</summary>
+<summary>Dissapearing Hold</summary>
 
 Added by @.caling
 
