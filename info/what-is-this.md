@@ -1,7 +1,7 @@
 ---
 icon: question
 ---
-
+<meta name="google-site-verification" content="amjTtKsQIxc8DO0HxKxuApIY0WDgMD7XvXV7wtVCGMw" />
 # What is this?
 
 This is a public collection of _Project Sekai: Colorful Stage!_ charting patterns.
