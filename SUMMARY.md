@@ -19,7 +19,7 @@
 * [Hold](gimmicks/hold.md)
 * [Tap](gimmicks/tap.md)
 * [Flick](gimmicks/flick.md)
-* [Mixed](gimmicks/mixed.md)
+* [😵‍💫 Mixed](gimmicks/mixed.md)
 
 ## 🌁 Traces
 
