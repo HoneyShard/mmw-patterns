@@ -10,6 +10,7 @@
 ## 🍀 Basic
 
 * [Hold](basic/hold.md)
+* [Tap](<basic/tap (1).md>)
 * [Flick](basic/flick.md)
 * [Mixed](basic/mixed.md)
 
@@ -17,7 +18,7 @@
 
 * [🌊 Streams](streams/README.md)
   * [Streams](streams/mixed.md)
-  * [Ladders](streams/tap.md)
+  * [Ladders](basic/tap.md)
 
 ## 🌟 Gimmicks
 

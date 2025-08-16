@@ -1,10 +1,4 @@
----
-description: hmm.. maybe there should be tabs for ladders instead..
----
-
 # Ladders
-
-
 
 <details>
 
@@ -52,24 +46,10 @@ Intense Voice Expert.    <sup><sub>**GOD I HATE THESE**<sub></sup>&#x20;
 
 <details>
 
-<summary>Wide Ladder</summary>
+<summary>Alternating Wide Ladder</summary>
 
 Intense Voice Expert.
 
 <figure><img src="../.gitbook/assets/wideladder.gif" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-## Bursts
-
-<details>
-
-<summary>Triplets</summary>
-
-Added by ProtoCat
-
-<figure><img src="../.gitbook/assets/triplets.gif" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/tripletindouble (1).gif" alt=""><figcaption></figcaption></figure>
 
 </details>

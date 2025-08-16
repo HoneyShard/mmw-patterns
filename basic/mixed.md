@@ -26,7 +26,7 @@ As seen in Intense Voice Expert.
 
 <details>
 
-<summary>Double Hold Into Flick Buildup</summary>
+<summary>Chord Hold Into Flick Buildup</summary>
 
 As seen in Intense Voice Expert.
 
@@ -36,7 +36,7 @@ As seen in Intense Voice Expert.
 
 <details>
 
-<summary>Double L/R Flick Ladder</summary>
+<summary>Chord L/R Flick Ladder</summary>
 
 As seen in Intense Voice Expert.
 
