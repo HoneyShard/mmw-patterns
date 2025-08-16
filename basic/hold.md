@@ -29,3 +29,13 @@ Can be a zigzag, curved, etc.
 <figure><img src="../.gitbook/assets/chainedholds.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+<details>
+
+<summary>Heavily Segmented Holds</summary>
+
+e.g. (Intense voice Expert)
+
+<figure><img src="../.gitbook/assets/heavyhold.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
