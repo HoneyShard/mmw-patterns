@@ -2,9 +2,6 @@
 <head>
   <meta name="google-site-verification" content="amjTtKsQIxc8DO0HxKxuApIY0WDgMD7XvXV7wtVCGMw" />
 </head>
----
-icon: question
----
 
 # What is this?
 
