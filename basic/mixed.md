@@ -26,16 +26,6 @@ As seen in Intense Voice Expert.
 
 <details>
 
-<summary>Chord L/R Flick Ladder</summary>
-
-As seen in Intense Voice Expert.
-
-<figure><img src="../.gitbook/assets/leftrightflicksingleladder.gif" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
 <summary>Taps Into Flick</summary>
 
 Intense Voice Expert.

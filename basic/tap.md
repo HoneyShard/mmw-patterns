@@ -10,7 +10,7 @@
 
 <details>
 
-<summary>Chord/Single Ladder</summary>
+<summary>Chord/Single </summary>
 
 <figure><img src="../.gitbook/assets/doublesingle.gif" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@
 
 <details>
 
-<summary>Swing Barrage and Ladder</summary>
+<summary>Swing </summary>
 
 &#x20;As seen in Lower's Master.
 
@@ -34,7 +34,7 @@ Ladder:
 
 <details>
 
-<summary>L/R Double Middle Ladder</summary>
+<summary>L/R Double Middle </summary>
 
 <figure><img src="../.gitbook/assets/leftrightdoublemiddle.gif" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ Intense Voice Expert.
 
 <details>
 
-<summary>Single Wide Ladder</summary>
+<summary>Single Wide</summary>
 
 Intense Voice Expert.    <sup><sub>**GOD I HATE THESE**<sub></sup>&#x20;
 
@@ -54,10 +54,20 @@ Intense Voice Expert.    <sup><sub>**GOD I HATE THESE**<sub></sup>&#x20;
 
 <details>
 
-<summary>Alternating Wide Ladder</summary>
+<summary>Alternating Wide </summary>
 
 Intense Voice Expert.
 
 <figure><img src="../.gitbook/assets/wideladder.gif" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Chord L/R Flick </summary>
+
+Intense Voice Expert
+
+<figure><img src="../.gitbook/assets/leftrightflicksingleladder.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
