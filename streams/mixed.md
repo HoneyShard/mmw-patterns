@@ -32,4 +32,21 @@ Added by ProtoCat
 
 <figure><img src="../.gitbook/assets/extrudedfourths.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
+
+{% tab title="Inwards" %}
+Added by Protocat
+
+<figure><img src="../.gitbook/assets/ladderseg1.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/inwards.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Across" %}
+<figure><img src="../.gitbook/assets/spameg1.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/across.png" alt=""><figcaption></figcaption></figure>
+
+Added by Protocat
+{% endtab %}
 {% endtabs %}
+
