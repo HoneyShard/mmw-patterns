@@ -4,7 +4,7 @@ description: '"the name sucks" SHHSHAHTSAHTASHAHDASHDS IM DONE\'
 
 # Streams
 
-A stream is a series of related tiles. e.g. (Intense Voice Expert). They're usually in alternating fashion, but they don't have to be.
+A stream is a pattern where you alternate between two notes at a fixed timing interval, usually for a prolonged period at 8ths or 16th notes. e.g. (Intense Voice Expert). They're usually in alternating fashion, but they don't have to be.
 
 <details>
 
