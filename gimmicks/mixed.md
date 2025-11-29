@@ -35,3 +35,17 @@ Added by ProtoCat
 <figure><img src="../.gitbook/assets/instant.png" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+<details>
+
+<summary>Note bounce</summary>
+
+<figure><img src="../.gitbook/assets/jump.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/jump.png" alt=""><figcaption></figcaption></figure>
+
+Added by c0d3r_
+<br>Note: the 1000x speed at the end is only needed if the note is going to bounce again, otherwise setting to 1x speed is best.
+<br>Use multiple layers to allow for notes to bouce without interfering with the rest of the chart.
+
+</details>
